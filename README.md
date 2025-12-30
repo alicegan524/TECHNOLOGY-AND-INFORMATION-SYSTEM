@@ -1,6 +1,16 @@
 # TECHNOLOGY-AND-INFORMATION-SYSTEM
 Technology and Information Systems are closely linked to Computer Science because they focus on how computing technologies are applied in real-world contexts. While computer science emphasizes theory and problem-solving, information systems apply these concepts to manage data, support decision-making, and improve organizational efficiency. Learning about information systems has helped me understand how computer science principles are used to build practical and impactful technological solutions.
 
+## Topic
+Chapter 1: Emerging Technology in ICT  
+Chapter 2: Hardware  
+Chapter 3: Software  
+Chapter 4: Information Systems & Methodology  
+Chapter 5: Databases and Data Analytics  
+Chapter 6: Networks and Communications  
+Chapter 7: Privacy, Security, and Ethics  
+Chapter 8: Cloud Computing  
+
 ## Assignment 1
 This assignment is a vlog about Open Day UTMDigital 2025. The event was very informative, helping students gain a deeper understanding of UTM's digital infrastructure. In addition, many companies set up booths to promote their services and products. This was very helpful for computer science students to understand today's technological advancements.
 
